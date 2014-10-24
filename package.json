@@ -2,6 +2,9 @@
     "name": "learning-express-cluster",
     "version": "0.0.1",
     "dependencies": {
-        "express": "*"
+        "express": "*",
+        "async":"*",
+        "request":"*",
+        "lodash":"*"
     }
 }
